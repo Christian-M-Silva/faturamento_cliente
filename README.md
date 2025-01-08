@@ -1,1 +1,1 @@
-Procedure para fazer um resumo do fatiramento anual do cliente
+Procedure para fazer um resumo do faturamento anual do cliente
